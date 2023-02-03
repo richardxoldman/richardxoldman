@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ryszard and I am currently a student of the 5th year of computer science at Uniwersytet im. Adama Mickiewicza w Poznaniu.
+My name is Ryszard and I am currently a 5th year student of computer science at the Adam Mickiewicz University in Poznań.
 
 There are three areas in IT that I am passionate about:
 - :bar_chart: Artificial Intelligence
